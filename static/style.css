@@ -1,0 +1,7 @@
+.cover{
+    background: url('/media/background2.jfif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;    
+}
